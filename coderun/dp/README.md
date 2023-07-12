@@ -1,0 +1,1 @@
+Coderun season 1 DP: [link](https://coderun.yandex.ru/catalog?tag=dynamic%20programming%201D&currentPage=1&pageSize=10)
